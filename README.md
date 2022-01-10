@@ -1,1 +1,1 @@
-# CS5704_DuckSim
+# CS5704_hw_design pattern
